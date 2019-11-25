@@ -1,4 +1,4 @@
-* Terminología:
+# Terminología:
 * Framework: Marco de trabajo, conjunto de herramientas y librerías para trabajar de acuerdo con determinados patrones. Un framework maneja la arquitectura de un sistema. Un framework aporta una estructura completa en la que nosotros "encajamos" nuestro código, implementando la lógica concreta de la aplicación. 
 * Librería: Colección de elementos, funciones, código para un fin en concreto. Proporciona una serie de funciones/métodos muy concretos para simplificar tareas. 
 * Protocolo: es un sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre ellas para transmitir información 
