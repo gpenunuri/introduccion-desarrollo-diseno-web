@@ -8,10 +8,24 @@
 
 * La arquitectura cliente-servidor modelo de diseño de software en el que las tareas se reparten entre los proveedores de recursos o servicios, llamados servidores, y los demandantes, llamados clientes. Un cliente realiza peticiones a otro programa, el servidor, quien le da respuesta.
 
-* Web != Internet
+# Web != Internet
 La Web es sólo una de las maneras en las que la información puede fluir a través de Internet.
 Internet es una red mundial descentralizada de computadoras y servidores, que utilizan la familia de protocolos TCP/IP para intercambiar archivos.
 La web es un sistema distribuido de documentos html a los que puedes acceder a travez de un navegador conectado a internet.
 
 * HTTP
 Es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. 
+
+***¿Cómo funciona el internet?***
+>El internet es una red de redes, dispositivos conectados entre sí. Existen muchos aparatos y protocolos involucrados, dentro de los más importantes están los servidores. El internet es el conjunto de todas las partes involucradas para poder comunicarnos al rededor del mundo.
+
+***¿Cómo están construidas las páginas web?***
+>Las páginas web y el software en general, son texto en forma de instrucciones que interpretan las computadores. En el caso de las páginas web, es el navegador quien interpreta que alguna instrucción sea una imagen, un botón o un parrafo.
+
+***Frontend & Backend***
+
+>El desarrollo web se divide entre frontend y backend. El **frontend** se encarga de construir lo que el usuario puede ver a través del navegador, y las interacciones que puede tener. El **backend** se encarga de manejar y procesar la información que se usa en una pagina web, como una base de datos de usuarios.
+
+***HTML, CSS y JS***
+
+>Los tres lenguajes fundamentales del desarrollo web. HTML (Lenguaje de Marcado de Hiper Texto) da la estructura de la página; CSS (Hojas de Estilo en Cascada) modifica la apariencia; JavaScript maneja la interacción.
