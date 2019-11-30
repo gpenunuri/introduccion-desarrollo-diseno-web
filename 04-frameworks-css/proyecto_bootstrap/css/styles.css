@@ -1,0 +1,12 @@
+.header {
+    padding: 200px 20px;
+    text-align: center;
+    /* linear gradient with transparency */
+    background: linear-gradient( to right, rgba(51,51,51,0.7), rgb(51, 51, 51, 0.7) ) , url('../img/background.png');
+    background-size: cover;
+}
+
+.header h1 {
+    font-size: 52px;
+    color: white;
+}
