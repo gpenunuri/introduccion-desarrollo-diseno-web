@@ -10,3 +10,24 @@
     font-size: 52px;
     color: white;
 }
+
+.section-services {
+    text-align: center;
+    padding: 48px;
+}
+
+.section-about-us {
+    padding: 48px;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+}
+
+
+.section-about-us h2{
+    margin-bottom: 48px;
+}
+
+.section-about-us img {
+    width: 100%;
+}
